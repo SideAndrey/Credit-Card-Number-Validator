@@ -14,6 +14,7 @@ https://github.com/SideAndrey/Credit-Card-Number-Validator/issues/4
 В процессе тестирования использовались следующие артефакты:
 
 checklist.txt
+testdata.txt
 
 В качестве тестовых данных использовались данные Javaqa-homeworks:
 
