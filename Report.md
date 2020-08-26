@@ -9,8 +9,11 @@
 В результате тестирования выявлены следующие дефекты:
 
 https://github.com/SideAndrey/Credit-Card-Number-Validator/issues/1
+
 https://github.com/SideAndrey/Credit-Card-Number-Validator/issues/2
+
 https://github.com/SideAndrey/Credit-Card-Number-Validator/issues/3
+
 https://github.com/SideAndrey/Credit-Card-Number-Validator/issues/4
 
 <h2>Описание процесса тестирования</h2>
