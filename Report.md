@@ -13,7 +13,7 @@ https://github.com/SideAndrey/Credit-Card-Number-Validator/issues/2
 https://github.com/SideAndrey/Credit-Card-Number-Validator/issues/3
 https://github.com/SideAndrey/Credit-Card-Number-Validator/issues/4
 
-<h2>Описание процесса тестирования<h2>
+<h2>Описание процесса тестирования</h2>
 
 В процессе тестирования использовались следующие артефакты:
 
