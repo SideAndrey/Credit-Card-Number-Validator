@@ -7,6 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
+
 [Вывод результата FAIL при проверке валидной карты платежной системы AmericanExpress](https://github.com/SideAndrey/Credit-Card-Number-Validator/issues/1)
 
 [Вывод результата FAIL при проверке валидной карты платежной системы JCB](https://github.com/SideAndrey/Credit-Card-Number-Validator/issues/2)
