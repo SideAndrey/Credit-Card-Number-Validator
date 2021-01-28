@@ -8,8 +8,11 @@
 
 В результате тестирования выявлены следующие дефекты:
 [Вывод результата FAIL при проверке валидной карты платежной системы AmericanExpress](https://github.com/SideAndrey/Credit-Card-Number-Validator/issues/1)
+
 [Вывод результата FAIL при проверке валидной карты платежной системы JCB](https://github.com/SideAndrey/Credit-Card-Number-Validator/issues/2)
+
 [Вывод результата FAIL при проверке валидной карты платежной системы Diners Club - Carte Blanche](https://github.com/SideAndrey/Credit-Card-Number-Validator/issues/3)
+
 [Вывод результата FAIL при проверке валидной карты платежной системы Discover](https://github.com/SideAndrey/Credit-Card-Number-Validator/issues/4)
 
 <h2>Описание процесса тестирования</h2>
